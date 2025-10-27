@@ -34,12 +34,6 @@
             "m_Id": "c063418d80ed46cf8318809a2f8411b1"
         },
         {
-            "m_Id": "4a73e41672cf485c85c4114d2e61ce2c"
-        },
-        {
-            "m_Id": "5be0aa17b5114f05ba77c6c7e41be38f"
-        },
-        {
             "m_Id": "914751e121a74a5f83df054cd83f9d33"
         },
         {
@@ -830,12 +824,6 @@
                 "m_Id": "c063418d80ed46cf8318809a2f8411b1"
             },
             {
-                "m_Id": "4a73e41672cf485c85c4114d2e61ce2c"
-            },
-            {
-                "m_Id": "5be0aa17b5114f05ba77c6c7e41be38f"
-            },
-            {
                 "m_Id": "914751e121a74a5f83df054cd83f9d33"
             },
             {
@@ -864,9 +852,6 @@
     },
     "m_SubDatas": [],
     "m_ActiveTargets": [
-        {
-            "m_Id": "dfbc9173353b40818e47983691dfb62a"
-        },
         {
             "m_Id": "7f5598a8776d4b5e9575de794524e883"
         }
@@ -1186,8 +1171,8 @@
     "m_ObjectId": "0bebe54c55f040569c9a52c8ff7bf0bd",
     "m_Title": "Animate Burning Wick Color",
     "m_Position": {
-        "x": -858.6666870117188,
-        "y": -2061.33349609375
+        "x": -858.0,
+        "y": -2062.0
     }
 }
 
@@ -1332,8 +1317,8 @@
     "m_ObjectId": "1324457d4da142e0a1f618a69c6c6925",
     "m_Title": "Wax Add Color",
     "m_Position": {
-        "x": -2093.333251953125,
-        "y": -1292.6666259765625
+        "x": -2093.0,
+        "y": -1292.9998779296875
     }
 }
 
@@ -1473,21 +1458,6 @@
     "m_StageCapability": 3,
     "m_Value": 0.0,
     "m_DefaultValue": 0.0,
-    "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "1dba9ffcca4b485195d1c22a2cde8466",
-    "m_Id": 0,
-    "m_DisplayName": "Alpha",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Alpha",
-    "m_StageCapability": 2,
-    "m_Value": 1.0,
-    "m_DefaultValue": 1.0,
     "m_Labels": []
 }
 
@@ -2731,40 +2701,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.BlockNode",
-    "m_ObjectId": "4a73e41672cf485c85c4114d2e61ce2c",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "SurfaceDescription.Alpha",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": 0.0,
-            "y": 0.0,
-            "width": 0.0,
-            "height": 0.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "1dba9ffcca4b485195d1c22a2cde8466"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_DismissedVersion": 0,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_SerializedDescriptor": "SurfaceDescription.Alpha"
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "4b97805248b3432a92de611f51a8a9e9",
     "m_Id": 4,
@@ -2997,40 +2933,6 @@
     "m_Value": 0.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.BlockNode",
-    "m_ObjectId": "5be0aa17b5114f05ba77c6c7e41be38f",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "SurfaceDescription.BentNormal",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": 0.0,
-            "y": 0.0,
-            "width": 0.0,
-            "height": 0.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "d0d705cd363b4354981e78fd21ae1ec0"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_DismissedVersion": 0,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_SerializedDescriptor": "SurfaceDescription.BentNormal"
 }
 
 {
@@ -3568,8 +3470,8 @@
     "m_ObjectId": "755c526010d54d8eabccf204aa308bad",
     "m_Title": "Radial Gradient",
     "m_Position": {
-        "x": -2509.999755859375,
-        "y": -1597.33349609375
+        "x": -2510.0,
+        "y": -1597.9998779296875
     }
 }
 
@@ -3959,8 +3861,8 @@
     "m_ObjectId": "885f65af6f6945f89e24ff6bc42e7967",
     "m_Title": "Switch between the wick and the candle colors.",
     "m_Position": {
-        "x": 201.33331298828126,
-        "y": -1158.0
+        "x": 202.0,
+        "y": -1158.0001220703125
     }
 }
 
@@ -4586,8 +4488,8 @@
     "m_ObjectId": "a4dfcbc6be1741a08cac12a29d8253ee",
     "m_Title": "Smoothness and metallic based on VertexColor.G",
     "m_Position": {
-        "x": 419.99993896484377,
-        "y": -716.6666259765625
+        "x": 420.0002746582031,
+        "y": -717.0
     }
 }
 
@@ -5103,8 +5005,8 @@
     "m_ObjectId": "ba381c64c0cd4d09ae5202a50817a952",
     "m_Title": "Switch between the wax color and the metal one.",
     "m_Position": {
-        "x": -1109.3333740234375,
-        "y": -1120.6666259765625
+        "x": -1109.0001220703125,
+        "y": -1121.0
     }
 }
 
@@ -5469,30 +5371,6 @@
 }
 
 {
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.NormalMaterialSlot",
-    "m_ObjectId": "d0d705cd363b4354981e78fd21ae1ec0",
-    "m_Id": 0,
-    "m_DisplayName": "Bent Normal",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "BentNormal",
-    "m_StageCapability": 2,
-    "m_Value": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-    },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-    },
-    "m_Labels": [],
-    "m_Space": 3
-}
-
-{
     "m_SGVersion": 2,
     "m_Type": "UnityEditor.Rendering.Universal.ShaderGraph.UniversalLitSubTarget",
     "m_ObjectId": "d1ab2af8868c4d2596504475eb91a114",
@@ -5840,32 +5718,6 @@
         "z": 0.0,
         "w": 0.0
     }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.Rendering.HighDefinition.ShaderGraph.HDTarget",
-    "m_ObjectId": "dfbc9173353b40818e47983691dfb62a",
-    "m_ActiveSubTarget": {
-        "m_Id": "e93a733fdef546a980c5e36e6b405a6d"
-    },
-    "m_Datas": [
-        {
-            "m_Id": "d0a62b9685c9437ea166546ba78d82b2"
-        },
-        {
-            "m_Id": "e01a86b993e243e894c938af2ee13822"
-        },
-        {
-            "m_Id": "ea0417c3805e48bdbf7d917a944172d4"
-        },
-        {
-            "m_Id": "4cadf87e5acb4068ba5fb7229b21901a"
-        }
-    ],
-    "m_CustomEditorGUI": "",
-    "m_SupportVFX": true,
-    "m_SupportLineRendering": false
 }
 
 {
@@ -6534,10 +6386,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1464.0,
-            "y": -1728.0,
-            "width": 209.3333740234375,
-            "height": 304.0
+            "x": -1443.0001220703125,
+            "y": -1752.0,
+            "width": 208.0,
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -6571,8 +6423,8 @@
     "m_ObjectId": "fd7b6565ce8f4c2fbc721702d762ee63",
     "m_Title": "Wax Fake illumination",
     "m_Position": {
-        "x": -1489.3333740234375,
-        "y": -1786.6666259765625
+        "x": -1467.9998779296875,
+        "y": -1810.9998779296875
     }
 }
 
