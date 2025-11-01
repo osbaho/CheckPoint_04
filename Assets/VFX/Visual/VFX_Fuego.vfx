@@ -3551,7 +3551,7 @@ MonoBehaviour:
   - {fileID: 114350483966675454}
   m_ExposedName: Frecuencia Llamas
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 3
   m_Category: 
   m_Min:
     m_Type:
@@ -3632,7 +3632,7 @@ MonoBehaviour:
   - {fileID: 114350483966675456}
   m_ExposedName: Drag
   m_Exposed: 1
-  m_Order: 2
+  m_Order: 4
   m_Category: 
   m_Min:
     m_Type:
@@ -5878,7 +5878,7 @@ MonoBehaviour:
   - {fileID: 114350483966675593}
   m_ExposedName: Ascuas Min vector
   m_Exposed: 1
-  m_Order: 3
+  m_Order: 5
   m_Category: 
   m_Min:
     m_Type:
@@ -6070,7 +6070,7 @@ MonoBehaviour:
   - {fileID: 114350483966675598}
   m_ExposedName: Ascuas Max vector
   m_Exposed: 1
-  m_Order: 4
+  m_Order: 6
   m_Category: 
   m_Min:
     m_Type:
@@ -6490,7 +6490,7 @@ MonoBehaviour:
   - {fileID: 114350483966675664}
   m_ExposedName: Ascuas Gravity
   m_Exposed: 1
-  m_Order: 5
+  m_Order: 7
   m_Category: 
   m_Min:
     m_Type:
@@ -7361,7 +7361,7 @@ MonoBehaviour:
   - {fileID: 114350483966675693}
   m_ExposedName: Turbulence Drag Ascuas Min
   m_Exposed: 1
-  m_Order: 6
+  m_Order: 8
   m_Category: 
   m_Min:
     m_Type:
@@ -7620,7 +7620,7 @@ MonoBehaviour:
   - {fileID: 114350483966675700}
   m_ExposedName: Turbulence Drag Ascuas Max
   m_Exposed: 1
-  m_Order: 7
+  m_Order: 9
   m_Category: 
   m_Min:
     m_Type:
@@ -7879,7 +7879,7 @@ MonoBehaviour:
   - {fileID: 114350483966675731}
   m_ExposedName: Intensity ascuas Min
   m_Exposed: 1
-  m_Order: 8
+  m_Order: 10
   m_Category: 
   m_Min:
     m_Type:
@@ -7969,7 +7969,7 @@ MonoBehaviour:
   - {fileID: 114350483966675733}
   m_ExposedName: Intensity ascuas Max
   m_Exposed: 1
-  m_Order: 9
+  m_Order: 11
   m_Category: 
   m_Min:
     m_Type:
@@ -8228,7 +8228,7 @@ MonoBehaviour:
   - {fileID: 114350483966675740}
   m_ExposedName: Frequency ascuas min
   m_Exposed: 1
-  m_Order: 10
+  m_Order: 12
   m_Category: 
   m_Min:
     m_Type:
@@ -8318,7 +8318,7 @@ MonoBehaviour:
   - {fileID: 114350483966675742}
   m_ExposedName: Frequency ascuas Max
   m_Exposed: 1
-  m_Order: 11
+  m_Order: 13
   m_Category: 
   m_Min:
     m_Type:
@@ -12800,7 +12800,7 @@ MonoBehaviour:
   - {fileID: 114350483966676054}
   m_ExposedName: Ascuas Color
   m_Exposed: 1
-  m_Order: 13
+  m_Order: 14
   m_Category: 
   m_Min:
     m_Type:
@@ -13991,7 +13991,7 @@ MonoBehaviour:
   - {fileID: 114350483966676091}
   m_ExposedName: smokeSpawnRate min
   m_Exposed: 1
-  m_Order: 14
+  m_Order: 15
   m_Category: 
   m_Min:
     m_Type:
@@ -14072,7 +14072,7 @@ MonoBehaviour:
   - {fileID: 114350483966676093}
   m_ExposedName: smokeSpawnRate Max
   m_Exposed: 1
-  m_Order: 15
+  m_Order: 16
   m_Category: 
   m_Min:
     m_Type:
@@ -14419,7 +14419,7 @@ MonoBehaviour:
   - {fileID: 114350483966676103}
   m_ExposedName: smokeLifetime min
   m_Exposed: 1
-  m_Order: 16
+  m_Order: 17
   m_Category: 
   m_Min:
     m_Type:
@@ -14500,7 +14500,7 @@ MonoBehaviour:
   - {fileID: 114350483966676105}
   m_ExposedName: smokeLifetime max
   m_Exposed: 1
-  m_Order: 17
+  m_Order: 18
   m_Category: 
   m_Min:
     m_Type:
@@ -15934,7 +15934,7 @@ MonoBehaviour:
   - {fileID: 114350483966676147}
   m_ExposedName: smokevector3 min
   m_Exposed: 1
-  m_Order: 18
+  m_Order: 19
   m_Category: 
   m_Min:
     m_Type:
@@ -16117,7 +16117,7 @@ MonoBehaviour:
   - {fileID: 114350483966676152}
   m_ExposedName: smokevector3 max
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 1
   m_Category: 
   m_Min:
     m_Type:
@@ -16300,7 +16300,7 @@ MonoBehaviour:
   - {fileID: 114350483966676161}
   m_ExposedName: smokesize min
   m_Exposed: 1
-  m_Order: 19
+  m_Order: 20
   m_Category: 
   m_Min:
     m_Type:
@@ -16381,7 +16381,7 @@ MonoBehaviour:
   - {fileID: 114350483966676163}
   m_ExposedName: smokesize max
   m_Exposed: 1
-  m_Order: 0
+  m_Order: 2
   m_Category: 
   m_Min:
     m_Type:
@@ -17176,7 +17176,7 @@ MonoBehaviour:
   - {fileID: 114350483966676186}
   m_ExposedName: smokeintensity
   m_Exposed: 1
-  m_Order: 20
+  m_Order: 21
   m_Category: 
   m_Min:
     m_Type:
@@ -17257,7 +17257,7 @@ MonoBehaviour:
   - {fileID: 114350483966676188}
   m_ExposedName: smokedrag
   m_Exposed: 1
-  m_Order: 21
+  m_Order: 22
   m_Category: 
   m_Min:
     m_Type:
@@ -17338,7 +17338,7 @@ MonoBehaviour:
   - {fileID: 114350483966676190}
   m_ExposedName: smokefrequency
   m_Exposed: 1
-  m_Order: 22
+  m_Order: 23
   m_Category: 
   m_Min:
     m_Type:
