@@ -4,4 +4,5 @@
   <Project Path="Unity.RenderPipelines.Core.Samples.Editor.csproj" />
   <Project Path="VFXGraph.OutputEventHandlers.Editor.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
 </Solution>
